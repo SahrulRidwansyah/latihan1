@@ -82,7 +82,7 @@ buka halaman github.com arahkan pada repositorynya, maka perubahan akan melihat 
 ## clone repository 
 clone repository adalah meng-copy repository server dan secara otomatis membuat suatu direktory sesuai dengan repositorynya (working direcktory). untuk melakukan cloning. menggunakan perintah
 ```
-
 git clone [url]
-
+```
+![gambar11](gambar/arul11.png)
 
